@@ -13,10 +13,10 @@ final class AuthManager {
     private var refreshingToken = false
 
     struct Constants {
-        static let clientID = "ADD_YOUR_CLIENT_ID_HERE"
-        static let clientSecret = "ADD_YOUR_CLIENT_SECRET_HERE"
+        static let clientID = "302e49910416453688ae0078a907915d"
+        static let clientSecret = "c1c10d997bdc45b6a0cb0fbb7978305e"
         static let tokenAPIURL = "https://accounts.spotify.com/api/token"
-        static let redirectURI = "https://www.iosacademy.io"
+        static let redirectURI = "http://localhost:8888/callback"
         static let scopes = "user-read-private%20playlist-modify-public%20playlist-read-private%20playlist-modify-private%20user-follow-read%20user-library-modify%20user-library-read%20user-read-email"
     }
 

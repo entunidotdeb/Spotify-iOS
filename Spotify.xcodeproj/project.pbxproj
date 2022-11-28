@@ -71,6 +71,21 @@
 		83E7A16F25E2C5C0007EF414 /* ActionLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E7A16E25E2C5C0007EF414 /* ActionLabelView.swift */; };
 		83E7A17225E3022F007EF414 /* LibraryAlbumsResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E7A17125E3022F007EF414 /* LibraryAlbumsResponse.swift */; };
 		B155E499983AD7C0E9CC2978 /* Pods_Spotify.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B58F92C4DA5A3AFC0EF74F2 /* Pods_Spotify.framework */; };
+		CDA48DDD29355054000B86DA /* song1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CDA48DDA29355053000B86DA /* song1.mp3 */; };
+		CDA48DDE29355054000B86DA /* song2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CDA48DDB29355054000B86DA /* song2.mp3 */; };
+		CDA48DDF29355054000B86DA /* song3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CDA48DDC29355054000B86DA /* song3.mp3 */; };
+		CDF1AB26293527BD00360307 /* MyMusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB24293527BC00360307 /* MyMusicViewController.swift */; };
+		CDF1AB27293527BD00360307 /* MyMusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB24293527BC00360307 /* MyMusicViewController.swift */; };
+		CDF1AB28293527BD00360307 /* MyMusicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB25293527BD00360307 /* MyMusicViewController.xib */; };
+		CDF1AB29293527BD00360307 /* MyMusicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB25293527BD00360307 /* MyMusicViewController.xib */; };
+		CDF1AB2C2935296C00360307 /* SpotTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB2A2935296C00360307 /* SpotTableViewCell.swift */; };
+		CDF1AB2D2935296C00360307 /* SpotTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB2A2935296C00360307 /* SpotTableViewCell.swift */; };
+		CDF1AB2E2935296C00360307 /* SpotTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB2B2935296C00360307 /* SpotTableViewCell.xib */; };
+		CDF1AB2F2935296C00360307 /* SpotTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB2B2935296C00360307 /* SpotTableViewCell.xib */; };
+		CDF1AB4A29354B3E00360307 /* MyMusicPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB4829354B3E00360307 /* MyMusicPlayerViewController.swift */; };
+		CDF1AB4B29354B3E00360307 /* MyMusicPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF1AB4829354B3E00360307 /* MyMusicPlayerViewController.swift */; };
+		CDF1AB4C29354B3E00360307 /* MyMusicPlayerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB4929354B3E00360307 /* MyMusicPlayerViewController.xib */; };
+		CDF1AB4D29354B3E00360307 /* MyMusicPlayerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDF1AB4929354B3E00360307 /* MyMusicPlayerViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -153,6 +168,15 @@
 		83E7A16E25E2C5C0007EF414 /* ActionLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionLabelView.swift; sourceTree = "<group>"; };
 		83E7A17125E3022F007EF414 /* LibraryAlbumsResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryAlbumsResponse.swift; sourceTree = "<group>"; };
 		9B58F92C4DA5A3AFC0EF74F2 /* Pods_Spotify.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Spotify.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDA48DDA29355053000B86DA /* song1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song1.mp3; sourceTree = "<group>"; };
+		CDA48DDB29355054000B86DA /* song2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song2.mp3; sourceTree = "<group>"; };
+		CDA48DDC29355054000B86DA /* song3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song3.mp3; sourceTree = "<group>"; };
+		CDF1AB24293527BC00360307 /* MyMusicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicViewController.swift; sourceTree = "<group>"; };
+		CDF1AB25293527BD00360307 /* MyMusicViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyMusicViewController.xib; sourceTree = "<group>"; };
+		CDF1AB2A2935296C00360307 /* SpotTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotTableViewCell.swift; sourceTree = "<group>"; };
+		CDF1AB2B2935296C00360307 /* SpotTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SpotTableViewCell.xib; sourceTree = "<group>"; };
+		CDF1AB4829354B3E00360307 /* MyMusicPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicPlayerViewController.swift; sourceTree = "<group>"; };
+		CDF1AB4929354B3E00360307 /* MyMusicPlayerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyMusicPlayerViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -224,6 +248,12 @@
 				839BA20925D96C1500BA56A5 /* HomeViewController.swift */,
 				83962E3C25D96D6200A0F09E /* SearchViewController.swift */,
 				83962E3F25D96D7000A0F09E /* LibraryViewController.swift */,
+				CDF1AB24293527BC00360307 /* MyMusicViewController.swift */,
+				CDF1AB25293527BD00360307 /* MyMusicViewController.xib */,
+				CDF1AB2A2935296C00360307 /* SpotTableViewCell.swift */,
+				CDF1AB2B2935296C00360307 /* SpotTableViewCell.xib */,
+				CDF1AB4829354B3E00360307 /* MyMusicPlayerViewController.swift */,
+				CDF1AB4929354B3E00360307 /* MyMusicPlayerViewController.xib */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -359,6 +389,9 @@
 		839BA21F25D96C5400BA56A5 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CDA48DDA29355053000B86DA /* song1.mp3 */,
+				CDA48DDB29355054000B86DA /* song2.mp3 */,
+				CDA48DDC29355054000B86DA /* song3.mp3 */,
 				839BA20E25D96C1600BA56A5 /* Assets.xcassets */,
 				839BA20525D96C1500BA56A5 /* AppDelegate.swift */,
 				839BA20725D96C1500BA56A5 /* SceneDelegate.swift */,
@@ -467,6 +500,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDF1AB29293527BD00360307 /* MyMusicViewController.xib in Resources */,
+				CDF1AB4D29354B3E00360307 /* MyMusicPlayerViewController.xib in Resources */,
+				CDF1AB2F2935296C00360307 /* SpotTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,7 +511,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				839BA21225D96C1600BA56A5 /* LaunchScreen.storyboard in Resources */,
+				CDA48DDF29355054000B86DA /* song3.mp3 in Resources */,
+				CDA48DDD29355054000B86DA /* song1.mp3 in Resources */,
+				CDF1AB28293527BD00360307 /* MyMusicViewController.xib in Resources */,
 				839BA20F25D96C1600BA56A5 /* Assets.xcassets in Resources */,
+				CDA48DDE29355054000B86DA /* song2.mp3 in Resources */,
+				CDF1AB4C29354B3E00360307 /* MyMusicPlayerViewController.xib in Resources */,
+				CDF1AB2E2935296C00360307 /* SpotTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -528,6 +570,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDF1AB2D2935296C00360307 /* SpotTableViewCell.swift in Sources */,
+				CDF1AB4B29354B3E00360307 /* MyMusicPlayerViewController.swift in Sources */,
+				CDF1AB27293527BD00360307 /* MyMusicViewController.swift in Sources */,
 				8305D6E626E172CE006C162D /* SpotifyTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -538,6 +583,7 @@
 			files = (
 				83962E3D25D96D6200A0F09E /* SearchViewController.swift in Sources */,
 				834DA87F25DB3528003CF18B /* PlaylistDetailsResponse.swift in Sources */,
+				CDF1AB4A29354B3E00360307 /* MyMusicPlayerViewController.swift in Sources */,
 				83962E6525D96E3500A0F09E /* Playlist.swift in Sources */,
 				83962E5C25D96E0400A0F09E /* AuthManager.swift in Sources */,
 				83E7A16925E2BE0F007EF414 /* LibraryToggleView.swift in Sources */,
@@ -557,11 +603,13 @@
 				830A09F225E1AF8B00D37663 /* SearchResultSubtitleTableViewCellViewModel.swift in Sources */,
 				83962E4A25D96D9F00A0F09E /* WelcomeViewController.swift in Sources */,
 				83962E5025D96DBB00A0F09E /* ProfileViewController.swift in Sources */,
+				CDF1AB26293527BD00360307 /* MyMusicViewController.swift in Sources */,
 				83962E3925D96D4400A0F09E /* TabBarViewController.swift in Sources */,
 				830A09E925E1ABBF00D37663 /* SearchResultDefaultTableViewCell.swift in Sources */,
 				83962E6225D96E1E00A0F09E /* HapticsManager.swift in Sources */,
 				834DA86D25DAE908003CF18B /* RecommendedTrackCollectionViewCell.swift in Sources */,
 				83DAECA525D97DC300A55E5A /* AuthResponse.swift in Sources */,
+				CDF1AB2C2935296C00360307 /* SpotTableViewCell.swift in Sources */,
 				830A09FA25E1B72E00D37663 /* PlayerControlsView.swift in Sources */,
 				8325982525E0294D00A091F6 /* GenreCollectionViewCell.swift in Sources */,
 				834DA85525DAD4A7003CF18B /* NewReleasesResponse.swift in Sources */,
@@ -800,7 +848,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.iosacademy.Spotify;
+				PRODUCT_BUNDLE_IDENTIFIER = io.dummie.Spotify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -820,7 +868,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.iosacademy.Spotify;
+				PRODUCT_BUNDLE_IDENTIFIER = io.dummie.Spotify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
